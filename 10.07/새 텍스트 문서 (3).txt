@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<title>목록태그</title>
+	</head>
+	<body>
+		<h1>다양한 목록태그</h1>
+		<h2>비순서형 목록 ul</h2>
+		<h3>카레재료들</h3>
+		<ul>
+			<li>돼지고기 500g</li>
+			<li>카레가루</li>
+			<li>감자 1개</li>
+			<li>양파 1개</li>
+			<li>버섯</li>
+		</ul>
+	</body>
+</html>
